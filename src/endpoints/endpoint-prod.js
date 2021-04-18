@@ -1,0 +1,1 @@
+export const GET_POST_LIST = '/static/api/post-list.json'
